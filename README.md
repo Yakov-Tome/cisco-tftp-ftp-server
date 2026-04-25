@@ -1,7 +1,7 @@
 Cisco TFTP & FTP Server
 A Windows GUI application providing TFTP and FTP services for Cisco network devices.
 <p align="center">
-  <img src="./assets/image.png" width="400"/>
+  <img src="./image.png" width="400"/>
 </p>
 Usage
 
