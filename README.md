@@ -1,6 +1,9 @@
 Cisco TFTP & FTP Server
 A Windows GUI application providing TFTP and FTP services for Cisco network devices.
+<p align="center">
 <img src="./screenshot.png" width="600"/>
+<p>
+
 Usage
 
 Must run as Administrator
